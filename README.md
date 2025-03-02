@@ -37,7 +37,7 @@ I am a highly motivated cybersecurity professional with a Master of Science in D
 
 ### **Cybersecurity Research Intern**
 
-*INSuRE Program (NSA Collaboration), Albany, NY | Aug 2024 – Dec 2024*
+INSuRE Program (NSA Collaboration), Albany, NY | Aug 2024 – Dec 2024
 
 - Worked with NSA mentors to analyze cybersecurity risks in non-terrestrial networks for national security systems.
 - Conducted a gap analysis of terrestrial vs. non-terrestrial network security protocols and developed a technical report.
@@ -46,7 +46,7 @@ I am a highly motivated cybersecurity professional with a Master of Science in D
 
 ### **Information Technology Services Student Consultant**
 
-*University at Albany, SUNY | Jan 2024 – Dec 2024*
+University at Albany, SUNY | Jan 2024 – Dec 2024
 
 - Resolved 20+ weekly technical support requests for faculty and students.
 - Managed classroom A/V systems, projectors, Zoom setups, and network connectivity.
@@ -59,7 +59,7 @@ I am a highly motivated cybersecurity professional with a Master of Science in D
 
 ### **Cybersecurity Home Lab: Exploiting and Securing Vulnerable Systems**
 
-*University at Albany, SUNY | Oct 2024 – Dec 2024*
+University at Albany, SUNY | Oct 2024 – Dec 2024
 
 - Built a home lab simulating attack and defense scenarios using VirtualBox.
 - Conducted vulnerability assessments on Metasploitable 3 with OpenVAS, identifying 26 vulnerabilities.
@@ -68,7 +68,7 @@ I am a highly motivated cybersecurity professional with a Master of Science in D
 
 ### **Fraudulent Job Post Prediction**
 
-*Vasireddy Venkatadri Institute of Technology | Dec 2022 – Feb 2023*
+Vasireddy Venkatadri Institute of Technology | Dec 2022 – Feb 2023
 
 - Developed an interactive web app using Streamlit to detect fraudulent job postings.
 - Implemented a soft voting classifier (Random Forest, XGBoost, MLP) achieving 98.89% accuracy.
