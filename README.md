@@ -1,4 +1,3 @@
-# **Cybersecurity Portfolio** 🚀🛡️💾
 
 ## **Dhanwanth Sai Dasari**
 
